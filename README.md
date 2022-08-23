@@ -6,7 +6,7 @@ but i also know HTML, CSS, Javascript, Go, Ruby
 Learn more about me:
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/985097344880082964?borderRadius=20px&bg=1c1c1c&idleMessage=Botting%20your%20Mom)](https://discord.com/users/985097344880082964)
+[![Discord Presence](https://lanyard.cnrad.dev/api/985097344880082964)](https://discord.com/users/985097344880082964)
 
 <details>
     <summary>Coding 🪄</summary>
