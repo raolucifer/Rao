@@ -25,7 +25,7 @@ class Coding(Vinyzu):
 
     def interests(self):
         self.enviroment = "Atom" #R.I.P
-        self.specialities = ["Botting", "Obfuscation", "Scraping", "Coding"]     
+        self.specialities = ["Botting", "Scraping", "Coding"]     
 
     def projects(self):
         self.current = "Summrs Bot Recreated" 
